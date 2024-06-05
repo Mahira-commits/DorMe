@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mi_services_I_offer"
+        android:title="Services I Offer" />
+    <item
+        android:id="@+id/mi_services_I_have_taken"
+        android:title="Services I Have Taken" />
+    <item
+        android:id="@+id/mi_services_wanted"
+        android:title="Services Wanted" />
+    <item
+        android:id="@+id/mi_services_taken_from_me"
+        android:title="Services Taken From Me" />
+</menu>
